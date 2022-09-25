@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.235.117.20:8081/repository/tesla-fe-releases/</url>
+	      <name>Koqia Technologies Releases Nexus Repository</name>
+	      <url>http://3.85.129.185:8081/repository/tesla-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.235.117.20:8081/repository/tesla-fe-snapshot/</url>
+	      <name>Koqia Technologies Snapshot Nexus Repository </name>
+	      <url>http://3.85.129.185:8081/repository/tesla-fe-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
